@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuisGerman99
 
-Active Intern Member of Honeywell in Quality and Metrology Dept. I am mostly focused 
+Worked as an Intern Member of Honeywell in Quality and Metrology Dept. I am mostly focused 
 on software developing in languages like Visual Basic for Applications, Python or LabView. 
 My main passion is robotics, programming and automation technologies. 
 
@@ -15,6 +15,6 @@ CETYS Universidad. Since then I participated in many tournaments and robotics co
 like line follower cars and innovation and design. I have been awarded five times with academic 
 excellence for achieving an average of 98 or greater. 
 
-Recently, I got a chance to be part of the HONEYWELL team as an intern. I am currently applying
+I got a chance to be part of the HONEYWELL team as an intern. I am developed and applied
 techniques for report automation and obtaining stadistics in Excel with the help of VBA Macros.
 Data processing is a key in order to obtain stadistics to be able to wisely make decisions.
