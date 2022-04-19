@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LuisGerman99
 
 Worked as an Intern Member of Honeywell in Quality and Metrology Dept. I am mostly focused 
-on software developing in languages like Visual Basic for Applications, Python or LabView. 
+on software developing in languages like Visual Basic for Applications, Python, LabView or Matlab. 
 My main passion is robotics, programming and automation technologies. 
 
 My engineer career started since bachelor's at CBTis21 where I studied as a mechatronics 
